@@ -113,7 +113,6 @@ Product-launch landing page for the AgileAI VS Code extension.
 <img src="https://raw.githubusercontent.com/sainathkhot/sainathkhot/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-*(This needs a one-time GitHub Actions setup — instructions below — but once added it auto-updates daily.)*
 
 ---
 
