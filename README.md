@@ -92,18 +92,18 @@ Product-launch landing page for the AgileAI VS Code extension.
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sainathkhot&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sainathkhot&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/> -->
 <img src="https://streak-stats.demolab.com/?user=sainathkhot&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainathkhot&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainathkhot&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180"/> -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sainathkhot&theme=radical&hide_border=true&height=180" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sainathkhot&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=sainathkhot&theme=radical&no-frame=true&row=1&column=6" />
+</p> -->
 
 ---
 
